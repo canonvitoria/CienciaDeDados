@@ -22,4 +22,4 @@ plt.plot([x0,x1],[y0,y1],"r")
 plt.show()
 
 #Usando a equação reta para determinar a venda 
- 
+ def 
